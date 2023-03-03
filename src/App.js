@@ -1,7 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+<<<<<<< HEAD
   return (
     <div className="App">
       <header className="App-header">
@@ -15,11 +16,21 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reacta
         </a>
       </header>
     </div>
   );
+=======
+	return (
+		<div className="App">
+			<header className="App-header">
+				<img src={logo} className="App-logo" alt="logo" />
+				<p>Prvi commit.</p>
+			</header>
+		</div>
+	);
+>>>>>>> c8fb4fe9bf2d160ff6b9034e3504090341f61321
 }
 
 export default App;
