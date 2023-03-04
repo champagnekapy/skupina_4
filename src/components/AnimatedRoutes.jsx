@@ -12,8 +12,8 @@ function AnimatedRoutes() {
     <AnimatePresence>
       <Routes location={location} key={location.pathname}>
         <Route exact path='/' element={<Home />} />
-        <Route exact path='/Katalog' element={<Catalog />} />
-        <Route exact path='/ONas' element={<About />} />
+        <Route exact path='/Catalog' element={<Catalog />} />
+        <Route exact path='/About' element={<About />} />
         <Route path='*' element={<NotFound />} />
       </Routes>
     </AnimatePresence>
