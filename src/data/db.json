@@ -1,0 +1,121 @@
+{
+  "games": [
+    {
+      "title": "Catan",
+      "photoPath": "/assets/catan.jpg",
+      "author": "Catan",
+      "description": "Odpravite se na nepozabno pustolovščino. Vživite se v raziskovalca, ki odkriva nove svetove.\n\nPo dolgi in naporni poti, so vaše ladje končno prispele na obalo neraziskanega otoka. Njegovo ime bo Catan!\n\nVendar niste edini pomorščaki, ki so pristali na obalah otoka Catan. Zdaj se začenja tekmovanje za naselitev otoka!\n\nS pametnim prekupčevanjem, dobro strategijo in kančkom sreče naselite otok Catan in zmagajte!\n\n\nLeta: 10+\nIgralci: 3-4\nTrajanje igre: 45-90 minut\n\nIgro lahko popestrite z različnimi dodatki. Z dodtakom je lahko igra primerna tudi za 5-6 igralcev.",
+      "price": "30",
+      "rate": "2",
+      "new": true,
+      "cart": false,
+      "id": 1
+    },
+    {
+      "title": "Activity",
+      "photoPath": "assets/activity.jpg",
+      "author": "Piatnik",
+      "description": "Popolna predanost se dvojno poplača!\n\nOpremljeni z začetnim kapitalom žetonov igralci dveh do štirih moštev poskušajo do konca igre obogatiti svoj kapital. Za uspeh je nujno, da spoštujete talent nasprotnikov in pametno razporejate svoje žetone.\n\nKoliko pojmov bo uspelo igralcu, ki je na vrsti, pojasniti z risanjem, besedami ali pantomimo tako, da jih soigralci čim hitreje uganejo?\n\nNa voljo ima le 90 sekund… Nobenega, 1, 2 ali kar vse 3?\n\nMoštvo, ki pravilno predvidi uspeh, bo podvojilo svoj vložek.\n\nZa 4 do 16 igralcev\nStarost: 12+ let\nČas igranja: 45 minut\nVsebina: 204 kartice s pojmi, 16 kartic napovedi. 1 peščena ura, 100 modrih žetonov, 50 rdečih žetonov, 1 navodila za igro.\nDodatno boste potrebovali še pisalo in papir.",
+      "price": "25",
+      "info": "https://www.dexyco.si/druzabne-igre/6431-piatnik-activity-casino-druzabna-igra",
+      "rate": "4",
+      "cart": false,
+      "new": true,
+      "id": 2
+    },
+    {
+      "title": "Človek ne jezi se",
+      "photoPath": "assets/cloveknejezise.jpg",
+      "author": "Piatnik",
+      "description": "Priljubljena, klasična družabna igra Človek ne jezi se združuje otroke in odrasle vseh generacij v enem zabavnem doživetju.\n\nKlasična družabna igra Človek ne jezi se ima obojestransko potiskano igralno ploščo s prečudovitimi motivi živali v nostaligičnih, jesenkih odtenkih.\n\nZasukaj ploščo in nepogrešljivo igro svojega otroštva odigraj na plošči za 4 ali 6 igralcev.\n\n\nStarost: 4+ let\nIgralci: 2-6\nDimenzije pakiranja: 35 × 22 × 4 cm\nVsebina: 1 obojestranska igralna plošča za 4 ali za 6 igralcev; 24 figuric, kocka",
+      "price": "15",
+      "info": "https://www.dexyco.si/druzabne-igre/2686-piatnik-clovek-ne-jezi-se-za-4-ali-za-6",
+      "rate": "2",
+      "cart": false,
+      "new": false,
+      "id": 3
+    },
+    {
+      "new": false,
+      "id": 4,
+      "cart": false,
+      "title": "Domino",
+      "photoPath": "assets/domino.jpg",
+      "author": "Schmidt",
+      "description": "Igra domine z velikimi ploščicami.",
+      "info": "https://www.dexyco.si/druzabne-igre/3756-schmidt-domino-24-verzij-igranja",
+      "rate": "5",
+      "price": "10"
+    },
+    {
+      "title": "Jenga",
+      "photoPath": "assets/jenga.jpg",
+      "author": "Jenga",
+      "description": "Klasična igra Jenga narejena iz pravega lesa. Ali si dovolj spreten, da odstraniš leseno kocko in jo položiš na vrh stolpa, ne da bi ga pri tem podrl?\n\nV priročnem pakiranju.\n\nLeta: 6+\nMaterial: les, karton\nDimenzije: 4,4 × 15,9 × 20,3 cm\nSet vsebuje: 54 lesenih blokov",
+      "price": "10",
+      "rate": "5",
+      "new": true,
+      "cart": true,
+      "id": 5
+    },
+    {
+      "new": false,
+      "id": 6,
+      "cart": false,
+      "title": "Tombola",
+      "photoPath": "assets/tombola.jpg",
+      "author": "Schmidt",
+      "description": "Družabna igra tombola\n\nDružabna igra ,kjer žrebamo številke.\n\nNamen igre: Igralci označijo številke na svoji igralni plošči ,ki se tekom igre žrebajo. Tisti ki ima prvih 5 številk v liniji na svoji igralni plošči je zmagovalec.",
+      "info": "https://www.dexyco.si/druzabne-igre/3753-schmidt-tombola-bingo-lesene-ploscice",
+      "rate": "5",
+      "price": "10"
+    },
+    {
+      "title": "Monopoly",
+      "photoPath": "assets/monopoly.jpg",
+      "author": "Monopoly",
+      "description": "Družabna igra Monopoly Travel World Tour predstavlja nov pristop k klasičnemu igranju Monopoly, v kateri igralci odkrivajo in obiskujejo razburljive potovalne destinacije.\n\nIgralci kupujejo destinacije, izpolnjujejo popotniške cilje in žigosajo igralno ploščo piši-briši s štampiljko-figurico, da dosežejo zmago.\n\nUstvarjaj spomine s karticami popotniškega dnevnika, ki postanejo del igranja v prihodnosti, in pri tem boš izvedel zabavna dejstva o lokacijah po vsem svetu.\n\nIzjemna igra za popotniške navdušence!\n\nTa potovalno obarvana izdaja igre Monopoly je zabavna igra za družinsko večerno igranje in je izjemna igra za otroke od 8 let naprej.\n\nVključuje igralno ploščo piši-briši, 4 figurice z žigi z lastnim črnilom, 22 kartic destinacij, 10 kartic z dogodki , 10 kartic popotniškega dnevnika, 2 kocki, kartonski denar in navodila za igranje.\n\nOd 8. leta naprej\nZa 2 do 4 igralce.",
+      "price": "10",
+      "rate": "5",
+      "new": true,
+      "cart": true,
+      "id": 7
+    },
+    {
+      "new": false,
+      "id": 7,
+      "cart": false,
+      "title": "Twister",
+      "photoPath": "assets/twister.jpg",
+      "author": "Twister",
+      "description": "Kako sfecljan si lahko? Zavrti vrtavko in pazi, da ne padeš med izvajanjem naslednjega giba. Noro se boš zabaval med zapletanjem in feclanjem v štirih načinih igranja.\n\nLeta: 6+\nMaterial: plastika, karton\nDimenzije pakiranja: 27 × 27 × 6 cm\nŠtevilo igralcev: 2 ali več\nSet vsebuje: Twister podlogo z barvnimi polji, vrtavko za določanje nalog, navodila za igro",
+      "info": "https://www.dexyco.si/druzabne-igre/2323-twister-druzabna-igra",
+      "rate": "5",
+      "price": "10"
+    },
+    {
+      "new": true,
+      "id": 7,
+      "cart": false,
+      "title": "Ugani kdo",
+      "photoPath": "assets/uganikdo.jpg",
+      "author": "Hasbro",
+      "description": "Originalna igra ugibanja z večc različnimi liki. Postavi in igraj v trenutku. Z dvema polama likov: z ljudmi ali ljubljenčki. Z interneta lahko preneseš še dodatne pole.\n\nDobro premisli, katero vprašanje boš zastavil!\n\n\nLeta: 6+\nMaterial: plastika, karton\nDimenzije: 4,1 × 30,5 × 25,4 cm\nSet vključuje: 2 igralni plošči, 48 kart z liki, 24 skrivih kartic, 10 žetonov za točkovanje in navodila\n",
+      "info": "https://www.dexyco.si/druzabne-igre/1031-ugani-kdo-druzabna-igra",
+      "rate": "5",
+      "price": "10"
+    },
+    {
+      "title": "Tik tak bum",
+      "photoPath": "assets/tiktakbum.jpg",
+      "author": "Piatnik",
+      "description": "Razburljiva družabna igra, pri kateri šteje vsaka sekunda. Hitra besedna igra, od igralcev zahteva, da se čim hitreje spomnijo ustreznih besed in podajo Tik Tak BUUM bombo naslednjemu igralcu, preden se odšteje čas. Poseben časovnik, ki odšteva čas, vsakokrat odmeri drugačen čas, zato nikoli ne veste, kdaj bo bombo razneslo!\n\nLeta: 12+\nIgralci: 2-12\nČas igranja: 30 minut\nJezik: slovenščina / hrvaščina / srbščina",
+      "price": "12",
+      "info": "https://www.dexyco.si/druzabne-igre/1613-piatnik-igra-tik-tak-buum-original",
+      "rate": "1",
+      "new": false,
+      "cart": false,
+      "id": 8
+    }
+  ]
+}

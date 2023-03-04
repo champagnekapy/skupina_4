@@ -1,13 +1,192 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333d29;
+}
+body {
+  background: #f1ece2;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  background-color: #f1ece2;
+  border-bottom: 1px solid #b6ad90;
+}
+.navbar .logo {
+  float: left;
+  padding: 5px;
+}
+.navbar h1 {
+  color: #414833;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  color: #414833;
+}
+.content {
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f1ece2;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  padding-bottom: 5px;
+  width: 100%;
+  color: #414833;
+
+  background-color: #f1ece2;
+  text-align: center;
+}
+
+.footerContent {
+  text-align: center;
+  float: center;
+}
+.footer:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footerContent ul {
+  list-style-type: none;
+}
+
+.footerSocialMedia {
+  text-align: center;
+  float: left;
+  width: 10%;
+}
+.footerSocial:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.footerSocialMedia ul {
+  list-style-type: none;
+}
+.notFound {
+  text-align: center;
+}
+.notFoundSlika {
+  width: 420 px;
+  height: 480 px;
+  margin: 10 px;
+}
+.footerSocialMediaContent {
+  text-align: center;
+  float: left;
+  margin-top: 10px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.footerSocialContent:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.seznamIger {
+  display: inline-block;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+  gap: 2.5rem;
+}
+.seznamIger img {
+  max-width: 400px;
+  width: 100%;
+  min-width: 200px;
+  margin: 10px;
+}
+.seznamIger h4 {
+  display: flex;
+}
+
+.homeContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 80px;
+}
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+}
+
+.square:focus {
+  outline: none;
+}
+.contentLine {
+  size: "20px";
+  margin-bottom: 7px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 9px;
+  color: #414833;
+  width: 100%;
+}
+.sugestedContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 15px;
+}
+
+.borderLine {
+  border-left: 1px solid #b6ad90;
+  width: 100%;
+  height: 100%;
+}
+.linkButton {
+  text-decoration: none;
+}
+.gameImage {
+  width: 100%;
+  margin: 10px;
 }
