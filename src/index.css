@@ -52,16 +52,65 @@ body {
 }
 .footer {
   position: fixed;
+  /* Changed the display property of the footer to grid */
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
   left: 0;
   bottom: 0;
   padding-bottom: 5px;
   width: 100%;
   color: #414833;
-
-  background-color: #f1ece2;
-  text-align: center;
+  /* Added borders and height for organisational purposes */
+  /* TODO remove the heght after adding all the elements to the dom */
+  height: 300px;
+  border: solid 1px #414833;
+  background-color: #414833;
+  text-align: start;
+}
+/* Added styling to the h2 */
+.footer h3 {
+  margin: 10px 30px;
+  text-align: start;
+  /* Changed the color of the h1 in the Footer */
+  color: #f1ece2
+}
+/* Added the styling for the p elements in the footer */
+.footer p {
+  font-size: large;
+  margin: auto 30px;
+  color: #f1ece2
+}
+/* Added breakpoints for different divs in the grid */
+.footer .address {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 0;
+  grid-row-end: 1;
+}
+.footer .links {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 0;
+  grid-row-end: 1;
+}
+.footer .contact {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 0;
+  grid-row-end: 1;
 }
 
+/* Added styles to the ul element and the links in the footer*/
+.footer ul {
+  margin: auto;
+}
+
+.footer ul li a {
+  color: #f1ece2;
+  font-size: large;
+  padding: 10px auto;
+}
 .footerContent {
   text-align: center;
   float: center;
