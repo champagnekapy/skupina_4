@@ -27,12 +27,28 @@ body {
   align-items: center;
   margin: 0 auto;
   background-color: #f1ece2;
-  border-bottom: 1px solid #b6ad90;
+  /* Changed the color of the border of the navbar  */
+  border-bottom: 1px solid #414833;
+  /* Addedd more styling */
+  justify-content: space-between;
+  gap: 2rem;
+
 }
+/* Styling the table elements */
+.navbar ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+/* Added styling to the logo in the navbar */
 .navbar .logo {
   float: left;
   padding: 5px;
+  font-size: 2rem;
 }
+
 .navbar h1 {
   color: #414833;
 }
@@ -40,10 +56,28 @@ body {
   margin-left: auto;
 }
 .navbar a {
-  margin-left: 16px;
+  font-size: 20px;
+  font-weight: bold;
   text-decoration: none;
   padding: 6px;
   color: #414833;
+}
+/* Added a on hover option for the links in the navbar */
+.navbar a:hover {
+  background-color: #414833;
+  color: #f1ece2;
+}
+/* Styled the login button */
+.logIn {
+  height: 40px;
+  width: 90px;
+  border-radius: 12px;
+  background-color: #414833;
+  color: #f1ece2;
+  border-style: none;
+}
+.logIn:hover {
+  cursor: pointer;
 }
 .content {
   margin: 40px auto;
@@ -104,6 +138,7 @@ body {
 /* Added styles to the ul element and the links in the footer*/
 .footer ul {
   margin: auto;
+  list-style: none;
 }
 
 .footer ul li {

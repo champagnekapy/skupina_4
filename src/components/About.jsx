@@ -1,15 +1,17 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-function Catalog() {
+function About() {
   return (
     <motion.div
-      className='catalog'
+      className='about'
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0, transition: { duration: 1 } }}
-    ></motion.div>
+    >
+      <h1>About</h1>
+    </motion.div>
   );
 }
 
-export default Catalog;
+export default About;
