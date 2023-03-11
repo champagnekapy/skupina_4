@@ -45,6 +45,7 @@ const links = {
       <div className="contact">
         <h3>Contact</h3>
       </div>
+     
     </motion.div>
     
   );

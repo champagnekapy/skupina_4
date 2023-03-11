@@ -21,6 +21,17 @@ code {
 body {
   background: #f1ece2;
 }
+/* Addedd the about page styles */
+.aboutMain {
+  background-color: #414833;
+  
+  height: 400px;
+  width: 300px;
+}
+.aboutMain h3 {
+  color: #f1ece2;
+  font-style: bold;
+}
 .navbar {
   padding: 20px;
   display: flex;
