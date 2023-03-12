@@ -4,6 +4,7 @@ import Home from "./Home";
 import About from "./About";
 import NotFound from "./NotFound";
 import Catalog from "./Catalog";
+import Game from "./CrazyEights/Game";
 import { AnimatePresence } from "framer-motion";
 
 function AnimatedRoutes() {
@@ -14,6 +15,7 @@ function AnimatedRoutes() {
         <Route exact path='/' element={<Home />} />
         <Route exact path='/Catalog' element={<Catalog />} />
         <Route exact path='/About' element={<About />} />
+        <Route exact path='/CrazyEights' element={<Game />} />
         <Route path='*' element={<NotFound />} />
       </Routes>
     </AnimatePresence>
